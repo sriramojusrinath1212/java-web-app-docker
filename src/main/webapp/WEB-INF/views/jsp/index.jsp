@@ -40,7 +40,7 @@
 
 	<div class="row">
 		<div class="col-md-8">
-			<h2>Welcome To Naroju Srilath Technologies, Excise-colony, Warangal, Inida ,Telangana.</h2>
+			<h2>Welcome To Naroju Srilath Technologies, Excise-colony, Warangal, India ,Telangana.</h2>
 			<h3>Contact @ +91-90000000,+917702061347</h3>
 		</div>	
 	</div>
@@ -48,7 +48,7 @@
 
 	<hr>
 	<footer>
-		<p>&copy; Naroju Srilath Technologies 2019</p>
+		<p>&copy; Naroju Srilath Technologies 2023</p>
 	</footer>
 </div>
 
