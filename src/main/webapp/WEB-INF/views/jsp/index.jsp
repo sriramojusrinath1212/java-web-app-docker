@@ -3,7 +3,7 @@
 <!DOCTYPE html>
 <html lang="en">
 <head>
-<title>Maven + Spring MVC</title>
+<title>Small Happy Family</title>
 
 <spring:url value="/resources/core/css/hello.css" var="coreCss" />
 <spring:url value="/resources/core/css/bootstrap.min.css" var="bootstrapCss" />
@@ -40,7 +40,7 @@
 
 	<div class="row">
 		<div class="col-md-8">
-			<h2>Welcome To Lalith and Thanusree Srilatha Technologies, Excise-colony, Warangal, India ,Telangana.</h2>
+			<h2>Welcome To Lalith ,Thanusree and Srilatha Technologies, Excise-colony, Warangal, India ,Telangana.</h2>
 			<h3>Contact @ +91-90000000,+917702061347</h3>
 		</div>	
 	</div>
